@@ -1,0 +1,15 @@
+{
+    "name": {
+        "first": "Katie",
+        "last": "Krause"
+    },
+    "fromWisconsin": true,
+    "numCredits": 13,
+    "major": "Computer Science",
+    "interests": [
+        "Music",
+        "Art",
+        "Coding",
+        "Video Games"
+    ]
+}
